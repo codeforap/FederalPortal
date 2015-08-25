@@ -9,3 +9,10 @@ Indian Constitution offers a quasi-federal form of government with strong bias t
 While diplomats of the state plan for effective utilization of received funds for various projects & welfare, it is so important to track on Available funds per scheme, Last date to apply on a scheme, Get all scheme info, previous requests with utilization certificates etc.
 
 Few states have long pending issues with Union Government which wish to be tagged, commented, discussion points noted and available at single portal. 
+
+# Technologies
+##Drupal
+
+This portal is being developed using  [Drupal 8](https://drupal.org). 
+
+Feel free to contribute to this project :)
